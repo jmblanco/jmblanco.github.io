@@ -1,0 +1,24 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1c60627z_-b7s.js"
+4:I[47257,["$3"],"ClientPageRoot"]
+5:"/_next/static/chunks/0fchm_r9q_3h9.js"
+6:I[31713,["$3","$5"],"default"]
+9:I[97367,["$3"],"OutletBoundary"]
+a:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$3"],"$e"]
+10:"MetadataBoundary"
+11:I[97367,["$3"],"$10"]
+12:I[27201,["$3"],"IconMark"]
+d:X
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$L4",null,{"Component":"$6","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@7","$@8"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0fchm_r9q_3h9.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"p":"$@c","v":null,"s":"$d"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Jose Miguel Blanco | Head of Architecture & Development"}],["$","meta","1",{"name":"description","content":"Head of Architecture & Development en Universia (Grupo Santander). Especialista en sistemas distribuidos, platform engineering, arquitecturas cloud y liderazgo de equipos de ingeniería."}],["$","link","2",{"rel":"author","href":"https://github.com/jmblanco"}],["$","meta","3",{"name":"author","content":"Jose Miguel Blanco"}],["$","meta","4",{"name":"keywords","content":"Jose Miguel Blanco,Software Architecture,Head of Architecture,Platform Engineering,Kubernetes,Universia,Cloud Native,Software Engineering,Distributed Systems"}],["$","meta","5",{"property":"og:title","content":"Jose Miguel Blanco | Head of Architecture & Development"}],["$","meta","6",{"property":"og:description","content":"Liderando arquitectura tecnológica, plataformas cloud y equipos de ingeniería de alto impacto en Universia."}],["$","meta","7",{"property":"og:site_name","content":"Jose Miguel Blanco"}],["$","meta","8",{"property":"og:locale","content":"es_ES"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Jose Miguel Blanco | Head of Architecture & Development"}],["$","meta","12",{"name":"twitter:description","content":"Head of Architecture & Development en Universia. Sistemas distribuidos y platform engineering."}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.svg?icon.095huq-nral2f.svg","sizes":"any","type":"image/svg+xml"}],["$","$L12","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$d"}},"a":"$@14","u":"$@15","b":"WxQDMoVlC2Ka7c6P9HxS6"}
+7:{}
+8:"$1:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+b:null
+15:true
+d:300
+d:C
+14:0
+13:"$undefined"
+c:"$undefined"
