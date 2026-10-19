@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://personal-web.dev/sitemap.xml
